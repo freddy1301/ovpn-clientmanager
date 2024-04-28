@@ -5,10 +5,14 @@ Simple Bash script to Add/Remove/Export Client Certificates of your OpenVPN Dock
 ![image](https://github.com/freddy1301/ovpn-clientmanager/assets/97679739/360cf255-b45c-40a0-b2ba-241beb9fad4d)
 
 ✅ Easy to use
+
 ✅ Keeps System clean
+
 ✅ Fancy looking ✨ ASCII Art ✨
+
 ✅ Removes leftover Configuration files
-🔶 Does not handle errors at all :/
+
+🔶 Does not handle errors very well :/
 
 ### What do I need?
 1. A working OpenVPN Docker Installation of https://hub.docker.com/r/kylemanna/openvpn
