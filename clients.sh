@@ -4,7 +4,7 @@ container="<YOUR OpenVPN CONTAINER NAME>"
 
 echo " "
 
-jp2a --color https://github.com/freddy1301/ovpn-clientmanager/blob/main/openvpn_logo.png
+jp2a --color https://raw.githubusercontent.com/freddy1301/ovpn-clientmanager/main/openvpn_logo.png
 
 echo " "
 
